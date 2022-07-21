@@ -9,6 +9,6 @@ public class Main {
 		String b = "B";
 		String c = "C";
 		Hanoi.hanoi(nbr, a, c, b);
+		
 	}
-
 }
